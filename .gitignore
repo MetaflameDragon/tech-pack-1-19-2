@@ -1,0 +1,9 @@
+# Whitelist setup
+*
+!*/
+
+!.gitignore
+
+
+# Track mods including subdirs
+!mods/**
