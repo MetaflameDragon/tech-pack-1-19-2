@@ -7,3 +7,5 @@
 
 # Track mods including subdirs
 !mods/**
+
+!README.md
